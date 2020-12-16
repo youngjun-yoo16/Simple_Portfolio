@@ -1,26 +1,26 @@
 # Simple Portfolio
 
-#### This basic portfolio site was created using Vue.js. Created during the Tuesday workshop, Single-Page Applications.
+This basic portfolio site was created using [Vue.js](https://vuejs.org). Created during the Tuesday workshop, _Single-Page Applications_.
 
-## Project setup
+## Usage
+
+Ensure that `node` and `yarn` are installed. Here are the list of commands you can use.
+
+Install dependencies:
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+Start development server:
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+Compile and minify the app for deployment:
 ```
 yarn build
 ```
+## License
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
+Licensed under the [MIT License](LICENSE).
 See [Configuration Reference](https://cli.vuejs.org/config/).
