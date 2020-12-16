@@ -1,6 +1,6 @@
 # Simple Portfolio
 
-### This basic portfolio site was created using Vue.js. Created during the Tuesday workshop, Single-Page Applications.
+#### This basic portfolio site was created using Vue.js. Created during the Tuesday workshop, Single-Page Applications.
 
 ## Project setup
 ```
