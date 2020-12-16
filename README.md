@@ -23,4 +23,4 @@ yarn build
 ## License
 
 Licensed under the [MIT License](LICENSE).
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/) for further details.
